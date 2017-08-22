@@ -1,0 +1,1 @@
+Flask + uWSGI + NGINX mash
